@@ -218,3 +218,39 @@ header {
 .box__card-primary p{
     margin-top: 20px;
 }
+
+/* Sobre nosotros */
+.container__about{
+    padding: 100px 0px;
+    margin-top: 100px;
+}
+.about{
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text__about{
+    width: 100%;
+    padding-right: 40px;
+}
+.text__about h1{
+    color: var(--color-black-100);
+    font-weight: 600;
+
+}
+.text__about p{
+    font-size: var(--text-paragraph);
+    margin-top: 40px;
+    color: var(--color-black-200);
+}
+.image__about{
+    width: 100%;
+    display: flex;
+
+}
+.image__about img{
+    width: 300px;
+}
