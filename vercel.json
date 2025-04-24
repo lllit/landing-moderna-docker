@@ -1,0 +1,8 @@
+{
+    "type": "docker",
+    "regions": [
+        "sfo1",
+        "iad1",
+        "gru1"
+    ]
+}
